@@ -1,0 +1,6 @@
+compil prg1 ()
+{ intCompil b,a;
+floatCompil c;
+start
+do {c=c+1;} while(c>=0);
+}
